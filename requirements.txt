@@ -1,0 +1,6 @@
+torch
+Pillow
+numpy
+requests
+ftfy
+regex
